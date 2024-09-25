@@ -1,2 +1,6 @@
  this is my first test file
 line 2
+chang
+
+ing for conflict1
+
